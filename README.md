@@ -1,1 +1,12 @@
-# hmm
+Frame_2.Name = "Frame"
+Frame_2.Parent = Frame
+Frame_2.BackgroundColor3 = Color3.fromRGB(0, 85, 255)
+Frame_2.BackgroundTransparency = 1.000
+Frame_2.BorderSizePixel = 0
+Frame_2.Position = UDim2.new(0.237866595, 0, 0.606730282, 0)
+Frame_2.Size = UDim2.new(0, 182, 0, 46)
+Frame_2.Image = "rbxassetid://3422259959"
+Frame_2.ImageColor3 = Color3.fromRGB(0, 85, 255)
+Frame_2.ScaleType = Enum.ScaleType.Slice
+Frame_2.SliceCenter = Rect.new(100, 100, 100, 100)
+Frame_2.SliceScale = 0.050
